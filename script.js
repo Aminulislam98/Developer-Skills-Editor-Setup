@@ -55,3 +55,12 @@
 // console.log(measureKelvin());
 
 // prompt() method gives always string ;
+
+// problem solve
+
+const printForecast = function (arr) {
+  for (let i = 0; i < arr.length; i++) {
+    console.log(`${arr[i]} degree celsius in ${i + 1} days`);
+  }
+};
+printForecast([17, 21, 23]);
