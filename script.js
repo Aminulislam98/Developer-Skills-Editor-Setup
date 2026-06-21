@@ -66,3 +66,5 @@
 //   return str;
 // };
 // console.log(printForecast([17, 21, 23]));
+
+// Solving CHALLENGE with AI;
